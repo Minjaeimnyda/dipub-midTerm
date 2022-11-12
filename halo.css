@@ -68,7 +68,9 @@ footer{
     justify-content: center;
     opacity: 0;
 }
-
+#rock img{
+    width:50%;
+}
 #rock.show {
     opacity: 1;
 }
@@ -148,8 +150,8 @@ footer{
     height: 300px;
     position: fixed;
     display: flex;
-    bottom: 5%;
-    right: 10%;
+    bottom: 10%;
+    right: 20%;
     opacity: 0;
 }
 #solar.on{
