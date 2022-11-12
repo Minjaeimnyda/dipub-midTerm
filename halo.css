@@ -149,7 +149,7 @@ footer{
     height: 500px;
     position: fixed;
     display: flex;
-    bottom: -15%;
+    bottom: -5%;
     right: 20%;
     opacity: 0;
 }
