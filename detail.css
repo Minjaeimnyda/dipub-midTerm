@@ -7,7 +7,6 @@ section{
     background-image: url(nasaImg/backgroundImage.jpg);
     width: 100%;
     height: 150vh;
-    background-repeat: no-repeat;
     background-size: cover;
 }
 #picOne{
