@@ -56,6 +56,7 @@ footer{
 }
 
 #cfOne img{
+    width: 50%
     rotate: 180deg;
 }
 
