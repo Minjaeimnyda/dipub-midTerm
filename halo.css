@@ -42,7 +42,7 @@ footer{
     text-align: right;
 }
 #cfOne{
-    width: 10%;
+    width: 100%;
     position: fixed;
     display: flex;
     align-items: center;
@@ -56,6 +56,8 @@ footer{
 }
 
 #cfOne img{
+    width: 50%;
+    left: 25%;
     rotate: 180deg;
 }
 #test1 img{
@@ -85,8 +87,8 @@ footer{
     height: 200px;
     position: fixed;
     display: flex;
-    top: 10%;
-    left: 20%;
+    top: 5%;
+    left: 10%;
     opacity: 0;
 }
 #rotRatio.on{
@@ -102,8 +104,8 @@ footer{
     height: 200px;
     position: fixed;
     display: flex;
-    bottom:  10%;
-    left: 20%;
+    bottom:  5%;
+    left: 10%;
     opacity: 0;
 }
 #smallRock.on{
@@ -119,7 +121,7 @@ footer{
     height: 200px;
     position: fixed;
     display: flex;
-    right: 20%;
+    right: 5%;
     opacity: 0;
 }
 #clork.on{
@@ -135,8 +137,8 @@ footer{
     height: 300px;
     position: fixed;
     display: flex;
-    bottom: 25%;
-    right: 10%;
+    bottom: 15%;
+    right: 5%;
     opacity: 0;
 }
 #dumBell.on{
@@ -153,7 +155,7 @@ footer{
     position: fixed;
     display: flex;
     bottom: -15%;
-    right: 20%;
+    right: 10%;
     opacity: 0;
 }
 #solar.on{
