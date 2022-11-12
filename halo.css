@@ -27,7 +27,7 @@ body{
 }
 #startPg{
     margin-top: 10%;
-    font-size: 15rem;
+    font-size: 10rem;
     text-align: center;
     align-content: center;
 }
@@ -56,9 +56,10 @@ footer{
 }
 
 #cfOne img{
-    width: 10%
     rotate: 180deg;
 }
+#test1 img{
+    width: 50%}
 
 #rock{
     width: 50%;
@@ -80,8 +81,8 @@ footer{
     text-align: center;
     align-content: center;
     vertical-align: middle;
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
     position: fixed;
     display: flex;
     top: 10%;
@@ -93,12 +94,12 @@ footer{
     transition: 1.2s ease-in-out;
 }
 #rotRatio img{
-    width: 400px;
-    height: 400px;
+    width: 200px;
+    height: 200px;
 }
 #smallRock{
-    width: 500px;
-    height: 400px;
+    width: 250px;
+    height: 200px;
     position: fixed;
     display: flex;
     bottom:  10%;
@@ -110,12 +111,12 @@ footer{
     transition: 0.5s ease-in-out;
 }
 #smallRock img{
-    width: 500px;
-    height: 400px;
+    width: 250px;
+    height: 200px;
 }
 #clork{
-    width: 400px;
-    height: 400px;
+    width: 200px;
+    height: 200px;
     position: fixed;
     display: flex;
     right: 20%;
@@ -126,12 +127,12 @@ footer{
     transition: 1.5s ease-in-out;
 }
 #clork img{
-    width: 400px;
-    height: 400px;
+    width: 200px;
+    height: 200px;
 }
 #dumBell{
-    width: 600px;
-    height: 600px;
+    width: 300px;
+    height: 300px;
     position: fixed;
     display: flex;
     bottom: 25%;
@@ -143,12 +144,12 @@ footer{
     transition: 1s ease-in-out;
 }
 #dumBell img{
-    width: 600Px;
-    height: 600px;
+    width: 300Px;
+    height: 300px;
 }
 #solar{
-    width: 1000px;
-    height: 1000px;
+    width: 500px;
+    height: 500px;
     position: fixed;
     display: flex;
     bottom: -15%;
@@ -168,7 +169,7 @@ footer{
 }
 
 #cfBoom{
-    width: 100%;
+    width: 50%;
     position: fixed;
     display: flex;
     align-items: center;
