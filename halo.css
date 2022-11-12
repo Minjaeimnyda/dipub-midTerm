@@ -52,12 +52,10 @@ footer{
 }
 
 #cfOne img{
-    width: 20%;
-    reft: 10%;
+    width: 50%;
+    reft: 25%;
     rotate: 180deg;
 }
-#test1 img{
-    width: 30%}
 
 #rock{
     width: 50%;
