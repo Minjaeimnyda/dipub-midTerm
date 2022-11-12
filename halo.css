@@ -42,7 +42,7 @@ footer{
     text-align: right;
 }
 #cfOne{
-    width: 30%;
+    width: 10%;
     position: fixed;
     display: flex;
     align-items: center;
@@ -56,12 +56,12 @@ footer{
 }
 
 #cfOne img{
-    width: 50%
+    width: 10%
     rotate: 180deg;
 }
 
 #rock{
-    width: 100%;
+    width: 50%;
     height: 200px;
     position: fixed;
     bottom: 0;
